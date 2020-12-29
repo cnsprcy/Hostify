@@ -119,8 +119,12 @@ header .account-btn {
 	color: #BF2B2B;
 }
 
+input:hover {
+	box-shadow: 0px 0px 8px #D44242;
+}
+
 input:focus {
-	border: 0.5px solid #000;
+	border: none;
 	box-shadow: 0px 0px 8px #D44242; 
 }
 
