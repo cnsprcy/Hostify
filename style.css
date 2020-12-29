@@ -119,3 +119,13 @@ header .account-btn {
 .main .upload:hover {
   	background-color: #BF2B2B;
 }
+
+footer {
+	color: #000;
+	border-top: 1px solid #D1D1D1;
+	width: 100%;
+	font-family: 'Open Sans', sans-serif;
+  	font-size: 1.5em;
+	font-weight: 300;
+}
+	
