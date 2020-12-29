@@ -115,6 +115,15 @@ header .account-btn {
 	color: #BF2B2B;
 }
 
+input:hover {
+	box-shadow: 0px 0px 8px #D44242;
+}
+
+input:focus {
+	border: none;
+	box-shadow: 0px 0px 8px #D44242; 
+}
+
 input[type=text], input[type=password], input[type=email]{
 	border: 1px solid #000;
 	padding: 0px 10px;
