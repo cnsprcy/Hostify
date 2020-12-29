@@ -123,8 +123,9 @@ header .account-btn {
 footer {
 	color: #000;
 	border-top: 1px solid #D1D1D1;
+	position: relative;
 	width: 100%;
-	top: 800px;
+	top: 1000px;
 	font-family: 'Open Sans', sans-serif;
   	font-size: 1em;
 	font-weight: 300;
